@@ -1,0 +1,23 @@
+import psycopg2
+import json
+import psycopg2.extras
+import sys
+
+#read json file
+with open('data.json', 'r') as f:
+        data = json.load(f)
+
+
+#connect to database
+#connect = psycopg2.connect("dbname=jobdb user=u0_a292 password = ngoziKAMA")
+#cur = con.cursor()
+#sql_str = "INSERT INTO  VALUction-date)s, %(action-desc)s)"
+for dat in data:
+        print(dat)
+        
+#cur.execute(sql_str, [dat for dat in data])
+
+#con.commit()
+
+
+

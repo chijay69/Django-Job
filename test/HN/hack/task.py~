@@ -1,0 +1,13 @@
+#testing hacker news api
+import json
+import pandas as pd
+import http.client
+import urllib2
+
+
+base_url = 'https://hacker-news.firebaseio.com/v0/item/{}.json?print=pretty'
+top_story_ids = json.loads(html)
+for story in top_story_ids:
+    response = urllib2.urlopen(base_url.format(story))
+    print (response.read())
+

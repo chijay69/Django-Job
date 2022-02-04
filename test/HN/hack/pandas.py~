@@ -1,0 +1,6 @@
+import pandas as pd
+
+
+df=pd.read_csv('data.csv', headers = ['by', 'descendants', 'id', 'score', 'time', 'title','type', 'url'],)
+pd.set_option('display.max_rows', None)
+print(df.head())

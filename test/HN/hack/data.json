@@ -1,0 +1,1031 @@
+[
+{
+    "by": "peterjuras",
+    "descendants": 0,
+    "id": 30203724,
+    "score": 1,
+    "time": 1643958692,
+    "title": "Show HN: Synchronize timers across a react app",
+    "type": "story",
+    "url": "https://github.com/peterjuras/react-time-sync"
+},{
+    "by": "Ice_cream_suit",
+    "descendants": 0,
+    "id": 30203692,
+    "score": 1,
+    "time": 1643958371,
+    "title": "Facebook suffers $230bn wipeout in biggest one-day US stock plunge",
+    "type": "story",
+    "url": "https://www.theguardian.com/technology/2022/feb/03/facebook-stock-shares-meta-mark-zuckerberg"
+},{
+    "by": "Tomte",
+    "descendants": 0,
+    "id": 30203670,
+    "score": 1,
+    "time": 1643958125,
+    "title": "Fireside Friday",
+    "type": "story",
+    "url": "https://acoup.blog/2022/02/04/fireside-friday-february-4-2022/"
+},{
+    "by": "Angostura",
+    "descendants": 0,
+    "id": 30203668,
+    "kids": [
+        30203678
+    ],
+    "score": 1,
+    "time": 1643958083,
+    "title": "European GDPR watchdog rules IAB ad-consent system unlawful",
+    "type": "story",
+    "url": "https://www.theregister.com/2022/02/02/europe_iab_decision/"
+},{
+    "by": "car",
+    "descendants": 1,
+    "id": 30203662,
+    "kids": [
+        30203699
+    ],
+    "score": 1,
+    "time": 1643957989,
+    "title": "Global phaseout of animal agriculture has potential to stabilize greenhouse gas",
+    "type": "story",
+    "url": "https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000010"
+},{
+    "by": "hbcondo714",
+    "descendants": 0,
+    "id": 30203650,
+    "kids": [
+        30203676
+    ],
+    "score": 2,
+    "time": 1643957818,
+    "title": "Gas-powered leaf blowers face a moment of reckoning",
+    "type": "story",
+    "url": "https://news.yahoo.com/gas-powered-leaf-blowers-face-a-moment-of-reckoning-205028611.html"
+},{
+    "by": "xgdgsc",
+    "descendants": 0,
+    "id": 30203645,
+    "score": 1,
+    "time": 1643957741,
+    "title": "China EV Sales: BYD's January Sales Skyrocket 362%",
+    "type": "story",
+    "url": "https://www.investors.com/news/china-ev-sales-january-2022-after-2021-boom-nio-pops/"
+},{
+    "by": "danboarder",
+    "descendants": 0,
+    "id": 30203644,
+    "score": 1,
+    "time": 1643957730,
+    "title": "Apple\u2019s Grip on App Store Challeged by Senate Bill Action",
+    "type": "story",
+    "url": "https://www.bloomberg.com/news/articles/2022-02-03/senate-judiciary-committee-approves-app-store-antitrust-bill"
+},{
+    "by": "vikinghckr",
+    "descendants": 0,
+    "id": 30203581,
+    "score": 5,
+    "time": 1643957017,
+    "title": "Amazon Pip Horror Story",
+    "type": "story",
+    "url": "https://archive.fo/pdYHy"
+},{
+    "by": "robin_reala",
+    "descendants": 0,
+    "id": 30203572,
+    "score": 1,
+    "time": 1643956922,
+    "title": "Threadable is a social reading platform",
+    "type": "story",
+    "url": "https://www.threadablebooks.com/"
+},{
+    "by": "kiyanwang",
+    "descendants": 0,
+    "id": 30203568,
+    "score": 2,
+    "time": 1643956872,
+    "title": "Applying Event-Driven Architecture in Digital Transformation Projects",
+    "type": "story",
+    "url": "https://chathura-ekanayake.medium.com/applying-event-driven-architecture-in-digital-transformation-projects-acbcb27440af"
+},{
+    "by": "sohkamyung",
+    "descendants": 0,
+    "id": 30203563,
+    "score": 1,
+    "time": 1643956805,
+    "title": "Covid-19 vaccine side effects: The positives about feeling bad",
+    "type": "story",
+    "url": "https://www.science.org/doi/10.1126/sciimmunol.abj9256"
+},{
+    "by": "johncena33",
+    "descendants": 0,
+    "id": 30203529,
+    "score": 1,
+    "time": 1643956320,
+    "title": "Google Search could be racist and support stereotyping",
+    "type": "story",
+    "url": "https://www.scmp.com/lifestyle/article/2179122/how-google-search-and-other-algorithms-could-be-racist-and-support"
+},{
+    "by": "RaghavAgrawal",
+    "descendants": 0,
+    "id": 30203516,
+    "score": 1,
+    "text": "Hello as python community for competitive programming is small but being from non-tech background how can I start learning and practicing competitive programming with Python?",
+    "time": 1643956147,
+    "title": "How to start competitive coding with Python",
+    "type": "story"
+},{
+    "by": "shlosky",
+    "descendants": 0,
+    "id": 30203507,
+    "score": 1,
+    "time": 1643956044,
+    "title": "Show HN: A Penny for Your Thought",
+    "type": "story",
+    "url": "https://a-penny.com/?hn"
+},{
+    "by": "mohanmcgeek",
+    "descendants": 2,
+    "id": 30203499,
+    "kids": [
+        30203717,
+        30203566
+    ],
+    "score": 2,
+    "text": "Aside from IDEs and media production tools, are there applications that you still have installed on your machine?<p>Are there applications that cannot be moved into the browser?",
+    "time": 1643955908,
+    "title": "Ask HN: What software do you pay for that's not a browser-based SaaS?",
+    "type": "story"
+},{
+    "by": "bryanrasmussen",
+    "descendants": 0,
+    "id": 30203478,
+    "score": 1,
+    "time": 1643955552,
+    "title": "What Was the Ted Talk?",
+    "type": "story",
+    "url": "https://www.thedriftmag.com/what-was-the-ted-talk/"
+},{
+    "by": "divbzero",
+    "descendants": 1,
+    "id": 30203457,
+    "kids": [
+        30203464
+    ],
+    "score": 1,
+    "time": 1643955272,
+    "title": "Springer Nature launches SharedIt (2016)",
+    "type": "story",
+    "url": "https://group.springernature.com/de/group/media/press-releases/weve-sharedit-springer-nature/10872820"
+},{
+    "by": "jeff-1amstudios",
+    "descendants": 1,
+    "id": 30203445,
+    "kids": [
+        30203470
+    ],
+    "score": 2,
+    "time": 1643955070,
+    "title": "A 25 year old hidden message to testing team",
+    "type": "story",
+    "url": "https://twitter.com/dethrace_labs/status/1489439884724948993"
+},{
+    "by": "bryanrasmussen",
+    "descendants": 0,
+    "id": 30203429,
+    "score": 2,
+    "time": 1643954935,
+    "title": "How the World Went from Post-Politics to Hyper-Politics",
+    "type": "story",
+    "url": "https://tribunemag.co.uk/2022/01/from-post-politics-to-hyper-politics"
+},{
+    "by": "mathgenius",
+    "descendants": 0,
+    "id": 30203414,
+    "score": 1,
+    "time": 1643954789,
+    "title": "Submission to ArXiv",
+    "type": "story",
+    "url": "https://johncarlosbaez.wordpress.com/2022/02/04/submission-to-arxiv/"
+},{
+    "by": "amitmina",
+    "descendants": 0,
+    "id": 30203413,
+    "score": 4,
+    "time": 1643954788,
+    "title": "World Is Not Normal",
+    "type": "story",
+    "url": "https://ycmusings.com/world-is-not-normal/"
+},{
+    "by": "rjkeck2",
+    "descendants": 0,
+    "id": 30203412,
+    "score": 1,
+    "time": 1643954782,
+    "title": "Let's Go Streaking",
+    "type": "story",
+    "url": "https://superduperserious.substack.com/p/lets-go-streaking"
+},{
+    "by": "lawrenceyan",
+    "descendants": 0,
+    "id": 30203398,
+    "score": 1,
+    "time": 1643954584,
+    "title": "The Two Cultures and The Scientific Revolution (1959) [pdf]",
+    "type": "story",
+    "url": "http://sciencepolicy.colorado.edu/students/envs_5110/snow_1959.pdf"
+},{
+    "by": "sohkamyung",
+    "descendants": 0,
+    "id": 30203387,
+    "score": 2,
+    "time": 1643954453,
+    "title": "Sneezing hamsters sparked a Covid outbreak in Hong Kong",
+    "type": "story",
+    "url": "https://www.nature.com/articles/d41586-022-00322-0"
+},{
+    "by": "rustoo",
+    "descendants": 0,
+    "id": 30203384,
+    "score": 2,
+    "time": 1643954420,
+    "title": "Atom by atom: new silicon computer chip technique opens up quantum computing",
+    "type": "story",
+    "url": "https://about.unimelb.edu.au/newsroom/news/2022/january/atom-by-atom-new-silicon-computer-chip-technique-opens-up-quantum-computing-construction-possibilities"
+},{
+    "by": "lnyan",
+    "descendants": 0,
+    "id": 30203381,
+    "score": 2,
+    "time": 1643954390,
+    "title": "AlphaCode Attention Visualization",
+    "type": "story",
+    "url": "https://alphacode.deepmind.com/"
+},{
+    "by": "Tomte",
+    "descendants": 0,
+    "id": 30203339,
+    "score": 2,
+    "time": 1643953835,
+    "title": "Nintendo affirms that Switch is still mid-cycle",
+    "type": "story",
+    "url": "https://arstechnica.com/gaming/2022/02/nintendo-switch-crosses-100-million-mark-outsells-wii-ps1/"
+},{
+    "by": "Tomte",
+    "descendants": 1,
+    "id": 30203306,
+    "kids": [
+        30203536
+    ],
+    "score": 2,
+    "time": 1643953393,
+    "title": "Slackware 15.0 Is Released",
+    "type": "story",
+    "url": "http://www.slackware.com/index.php"
+},{
+    "by": "magoghm",
+    "descendants": 1,
+    "id": 30203302,
+    "kids": [
+        30203472
+    ],
+    "score": 2,
+    "time": 1643953358,
+    "title": "Malicious CSV text files used to install BazarBackdoor malware",
+    "type": "story",
+    "url": "https://www.bleepingcomputer.com/news/security/malicious-csv-text-files-used-to-install-bazarbackdoor-malware/"
+},{
+    "by": "jonbaer",
+    "descendants": 0,
+    "id": 30203287,
+    "score": 2,
+    "time": 1643953164,
+    "title": "MIT experts test technical research for a central bank digital currency",
+    "type": "story",
+    "url": "https://news.mit.edu/2022/digital-currency-fed-boston-0203"
+},{
+    "by": "pabs3",
+    "descendants": 0,
+    "id": 30203243,
+    "score": 1,
+    "time": 1643952627,
+    "title": "If Software Is My Copilot, Who Programmed My Software?",
+    "type": "story",
+    "url": "https://sfconservancy.org/blog/2022/feb/03/github-copilot-copyleft-gpl/"
+},{
+    "by": "amitmina",
+    "descendants": 0,
+    "id": 30203232,
+    "score": 3,
+    "time": 1643952504,
+    "title": "Active Dendrites Enable Multi-Task Learning in Dynamic Environments",
+    "type": "story",
+    "url": "https://arxiv.org/abs/2201.00042"
+},{
+    "by": "idefine",
+    "descendants": 0,
+    "id": 30203212,
+    "score": 1,
+    "time": 1643952220,
+    "title": "Why be with company?: Recapturing the American Dream",
+    "type": "story",
+    "url": "https://with.co/resources/why-be-with-company-recapturing-the-american-dream/"
+},{
+    "by": "bryanrasmussen",
+    "descendants": 28,
+    "id": 30203203,
+    "kids": [
+        30203672,
+        30203548,
+        30203626,
+        30203671,
+        30203728,
+        30203545,
+        30203632,
+        30203544,
+        30203552,
+        30203721,
+        30203584,
+        30203541
+    ],
+    "score": 40,
+    "time": 1643952102,
+    "title": "There Is a Much Larger Problem Than the Great Resignation",
+    "type": "story",
+    "url": "https://themakingofamillionaire.com/there-is-a-much-larger-problem-than-the-great-resignation-no-one-wants-to-talk-about-it-3922cf8aefd2"
+},{
+    "by": "nhanpq",
+    "descendants": 2,
+    "id": 30203197,
+    "kids": [
+        30203331,
+        30203619
+    ],
+    "score": 1,
+    "time": 1643952069,
+    "title": "Ask HN: How do you keep up to date with the development trends in your field?",
+    "type": "story"
+},{
+    "by": "tehnub",
+    "descendants": 1,
+    "id": 30203192,
+    "kids": [
+        30203735
+    ],
+    "score": 17,
+    "time": 1643952049,
+    "title": "As Beijing Olympics begin, exiled Uyghurs fight for families oppressed in China",
+    "type": "story",
+    "url": "https://www.latimes.com/world-nation/story/2022-02-02/china-turkey-uyghurs-family-olympics"
+},{
+    "by": "fortran77",
+    "descendants": 1,
+    "id": 30203187,
+    "kids": [
+        30203494
+    ],
+    "score": 7,
+    "time": 1643951989,
+    "title": "\u201cIt's Like Working for Dr. Evil\u201d \u2013 Facebook's Stock Crash Is a Long Time Coming",
+    "type": "story",
+    "url": "https://www.vanityfair.com/news/2022/02/facebooks-stock-crash-is-a-long-time-coming"
+},{
+    "by": "car",
+    "descendants": 0,
+    "id": 30203181,
+    "score": 2,
+    "time": 1643951926,
+    "title": "The Future Is Carbon Farming, Not Cattle Ranching, Says Impossible Foods CEO",
+    "type": "story",
+    "url": "https://time.com/6144793/eliminating-meat-could-slow-climate-change/"
+},{
+    "by": "fernandops",
+    "descendants": 1,
+    "id": 30203174,
+    "kids": [
+        30203182
+    ],
+    "score": 2,
+    "time": 1643951866,
+    "title": "Show HN: I created a tool to generate socket.io project structures quickly",
+    "type": "story",
+    "url": "https://www.socketiobuilder.xyz/"
+},{
+    "by": "drdee",
+    "descendants": 0,
+    "id": 30203165,
+    "score": 1,
+    "time": 1643951796,
+    "title": "Emil Leon Post",
+    "type": "story",
+    "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Post/"
+},{
+    "by": "neuro_image2",
+    "descendants": 1,
+    "id": 30203157,
+    "kids": [
+        30203754,
+        30203434
+    ],
+    "score": 3,
+    "time": 1643951733,
+    "title": "The next murderous regime will come from the source we least expect: comedy",
+    "type": "story",
+    "url": "https://metamoderna.org/obedience-as-laughter-from-the-great-dictator-to-the-great-spectator/"
+},{
+    "by": "fortran77",
+    "descendants": 0,
+    "id": 30203144,
+    "score": 3,
+    "time": 1643951656,
+    "title": "Our Solar System in True Color Is Something Else",
+    "type": "story",
+    "url": "https://www.theatlantic.com/science/archive/2022/02/venus-true-color-solar-system/621460/"
+},{
+    "by": "picture",
+    "descendants": 0,
+    "id": 30203140,
+    "score": 1,
+    "time": 1643951635,
+    "title": "Sensor Watch: A Tour of Our Circuit Board",
+    "type": "story",
+    "url": "https://www.crowdsupply.com/oddly-specific-objects/sensor-watch/updates/how-we-got-to-blinky-a-tour-of-our-circuit-board"
+},{
+    "by": "danbr",
+    "descendants": 0,
+    "id": 30203107,
+    "score": 2,
+    "time": 1643951247,
+    "title": "Physics Designed Keyboard",
+    "type": "story",
+    "url": "https://twitter.com/foone/status/1489430212768985089"
+},{
+    "by": "caaqil",
+    "descendants": 0,
+    "id": 30203087,
+    "score": 7,
+    "time": 1643951043,
+    "title": "Twitter expands reply downvote feature test",
+    "type": "story",
+    "url": "https://twitter.com/TwitterSupport/status/1489351648245956613"
+},{
+    "by": "KhoomeiK",
+    "descendants": 0,
+    "id": 30203080,
+    "score": 2,
+    "time": 1643950987,
+    "title": "The Cosmic Hunt: a 15,000 year old Eurasian myth (2016)",
+    "type": "story",
+    "url": "https://www.scientificamerican.com/article/scientists-trace-society-rsquo-s-myths-to-primordial-origins/"
+},{
+    "by": "riglanto",
+    "descendants": 0,
+    "id": 30203068,
+    "score": 2,
+    "text": "All of us loves and waits every month for &#x27;Ask HN: Who&#x27;s hiring&#x27; post.<p>However you can find there mainly tech roles, but there&#x27;re exceptions from time to time.<p>Is anyone aware of similar threads with non-tech roles - like HR, PR, finance, marketing etc.",
+    "time": 1643950887,
+    "title": "Ask HN: Who's Hiring, but for HR",
+    "type": "story"
+},{
+    "by": "ardel95",
+    "descendants": 0,
+    "id": 30203064,
+    "score": 2,
+    "time": 1643950847,
+    "title": "Creating disaster recovery mechanisms using Amazon Route53",
+    "type": "story",
+    "url": "https://aws.amazon.com/blogs/networking-and-content-delivery/creating-disaster-recovery-mechanisms-using-amazon-route-53/"
+},{
+    "by": "fortran77",
+    "descendants": 1,
+    "id": 30203058,
+    "kids": [
+        30203095
+    ],
+    "score": 5,
+    "time": 1643950791,
+    "title": "It's official: Raspberry Pi goes 64-bit",
+    "type": "story",
+    "url": "https://www.youtube.com/watch?v=ET-DJLnNX-Q"
+},{
+    "by": "nsoonhui",
+    "descendants": 0,
+    "id": 30203054,
+    "score": 1,
+    "time": 1643950688,
+    "title": "A Softer Economics",
+    "type": "story",
+    "url": "https://aeon.co/essays/when-will-economists-embrace-the-quantum-revolution"
+},{
+    "by": "alifaziz",
+    "descendants": 3,
+    "id": 30203039,
+    "kids": [
+        30203555,
+        30203141
+    ],
+    "score": 7,
+    "text": "I&#x27;m curious, given nowadays we have many progressive tech options to adopt, why would anyone choose Java and what considerations are taken into that decision.",
+    "time": 1643950554,
+    "title": "Ask HN: Would you start new project in Java?",
+    "type": "story"
+},{
+    "by": "murtuzaalisurti",
+    "descendants": 2,
+    "id": 30203029,
+    "kids": [
+        30203038,
+        30203030
+    ],
+    "score": 2,
+    "time": 1643950481,
+    "title": "Wavy \u2013 A JavaScript Library",
+    "type": "story",
+    "url": "https://www.npmjs.com/package/@murtuzaalisurti/wavy"
+},{
+    "by": "vanusa",
+    "descendants": 0,
+    "id": 30203027,
+    "score": 1,
+    "time": 1643950465,
+    "title": "The Betrayal",
+    "type": "story",
+    "url": "https://www.theatlantic.com/magazine/archive/2022/03/biden-afghanistan-exit-american-allies-abandoned/621307/"
+},{
+    "by": "geocrasher",
+    "descendants": 0,
+    "id": 30203022,
+    "score": 2,
+    "time": 1643950425,
+    "title": "Not even getting to the airtight hatchway: Execution before you get there (2011)",
+    "type": "story",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20111215-00/?p=8883"
+},{
+    "by": "walkersutton",
+    "descendants": 15,
+    "id": 30203019,
+    "kids": [
+        30203453,
+        30203525,
+        30203312,
+        30203433,
+        30203340,
+        30203595,
+        30203428,
+        30203325
+    ],
+    "score": 48,
+    "time": 1643950397,
+    "title": "Where in the World Are Trader Joe\u2019s Warehouses? (2015)",
+    "type": "story",
+    "url": "https://sburer.github.io/2015/06/02/Trader-Joes.html"
+},{
+    "by": "uptown",
+    "descendants": 0,
+    "id": 30203009,
+    "score": 1,
+    "time": 1643950272,
+    "title": "Dialing Up",
+    "type": "story",
+    "url": "https://soundcloud.com/ostoastbach/dialing-up"
+},{
+    "by": "mgh2",
+    "descendants": 0,
+    "id": 30202983,
+    "score": 2,
+    "time": 1643950015,
+    "title": "Amazon raises Prime membership fees to offset growing costs",
+    "type": "story",
+    "url": "https://www.aljazeera.com/economy/2022/2/3/amazon"
+},{
+    "by": "mgh2",
+    "descendants": 0,
+    "id": 30202978,
+    "score": 6,
+    "time": 1643949993,
+    "title": "Amazon raises US price for Prime as profits jump",
+    "type": "story",
+    "url": "https://www.bbc.com/news/business-60252907"
+},{
+    "by": "signa11",
+    "descendants": 0,
+    "id": 30202965,
+    "score": 3,
+    "time": 1643949894,
+    "title": "Goodbye FLoC, Hello Topics",
+    "type": "story",
+    "url": "https://lwn.net/Articles/882607/"
+},{
+    "by": "shalmanese",
+    "descendants": 0,
+    "id": 30202925,
+    "score": 4,
+    "time": 1643949433,
+    "title": "A 2015 federal report predicted the entire ports slowdown that\u2019s come to pass",
+    "type": "story",
+    "url": "https://prospect.org/economy/we-were-warned-about-the-ports/"
+},{
+    "by": "VieEnCode",
+    "descendants": 0,
+    "id": 30202921,
+    "score": 2,
+    "time": 1643949367,
+    "title": "Unprecedented move against Big Tech\u2019s business model",
+    "type": "story",
+    "url": "https://www.globalwitness.org/en/press-releases/meps-move-against-big-techs-business-model/"
+},{
+    "by": "tomjcleveland",
+    "descendants": 1,
+    "id": 30202913,
+    "kids": [
+        30203402
+    ],
+    "score": 12,
+    "time": 1643949247,
+    "title": "Medical communication is bad\u2013how can we fix it?",
+    "type": "story",
+    "url": "https://blog.tjcx.me/p/medical-communication-is-badhow-do"
+},{
+    "by": "belltaco",
+    "descendants": 0,
+    "id": 30202903,
+    "score": 3,
+    "time": 1643949157,
+    "title": "Scammed by Blockchain wallet app Bitcoin 'confirmation'",
+    "type": "story",
+    "url": "https://old.reddit.com/r/gpumining/comments/sk0mo0/be_aware_and_stay_vigilant/"
+},{
+    "by": "arunc",
+    "descendants": 0,
+    "id": 30202902,
+    "score": 1,
+    "text": "Are there business&#x2F;professional email services that supports bottom posting by default?<p>Alternatives to the likes of Gmail, Microsoft, etc that small companies can use with bottom posting.",
+    "time": 1643949150,
+    "title": "Ask HN: Professional email service with support for bottom posting",
+    "type": "story"
+},{
+    "by": "emptybits",
+    "descendants": 2,
+    "id": 30202899,
+    "kids": [
+        30203200,
+        30203188
+    ],
+    "score": 5,
+    "time": 1643949141,
+    "title": "Historic Glass Plate Photos Sold as NFTs, Buyer Told to Smash Originals",
+    "type": "story",
+    "url": "https://petapixel.com/2022/02/03/historic-glass-plate-photos-sold-as-nfts-buyer-told-to-smash-originals/"
+},{
+    "by": "pizza",
+    "descendants": 0,
+    "id": 30202892,
+    "score": 2,
+    "time": 1643949093,
+    "title": "On the Integration of Psychological Operations with Cyber Operations (2020)",
+    "type": "story",
+    "url": "https://www.lawfareblog.com/integration-psychological-operations-cyber-operations"
+},{
+    "by": "ksec",
+    "descendants": 0,
+    "id": 30202891,
+    "score": 1,
+    "time": 1643949081,
+    "title": "Backblaze Also Points to Seagate Exos X12 Reliability Challenges",
+    "type": "story",
+    "url": "https://www.servethehome.com/backblaze-2021-hard-drive-reliability-seagate-exos-x12-st12000nm0007/"
+},{
+    "by": "danielwbean",
+    "descendants": 0,
+    "id": 30202881,
+    "score": 1,
+    "time": 1643948970,
+    "title": "Data democratization in analytics\u2013and how to get there",
+    "type": "story",
+    "url": "https://mixpanel.com/blog/data-democratization-product-analytics/"
+},{
+    "by": "unobatbayar",
+    "descendants": 0,
+    "id": 30202880,
+    "score": 2,
+    "time": 1643948967,
+    "title": "Show HN: I made a programming music playlist",
+    "type": "story",
+    "url": "https://soundcloud.com/unobatbayar/sets/programming-music"
+},{
+    "by": "michaeltendo",
+    "descendants": 2,
+    "id": 30202874,
+    "kids": [
+        30203386,
+        30202875
+    ],
+    "score": 2,
+    "time": 1643948918,
+    "title": "Loft Uganda",
+    "type": "story",
+    "url": "https://loftuganda.tech/"
+},{
+    "by": "sgdesign",
+    "descendants": 0,
+    "id": 30202873,
+    "score": 1,
+    "time": 1643948917,
+    "title": "A Primer on B\u00e9zier Curves \u2013 B-Splines",
+    "type": "story",
+    "url": "https://pomax.github.io/bezierinfo#bsplines"
+},{
+    "by": "lakis",
+    "descendants": 0,
+    "id": 30202857,
+    "score": 7,
+    "time": 1643948734,
+    "title": "A Fight over the Right to Repair Cars Turns Ugly",
+    "type": "story",
+    "url": "https://www.wired.com/story/fight-right-repair-cars-turns-ugly/"
+},{
+    "by": "maxwell",
+    "descendants": 3,
+    "id": 30202849,
+    "kids": [
+        30203389,
+        30203175,
+        30202895
+    ],
+    "score": 2,
+    "time": 1643948653,
+    "title": "futura.black",
+    "type": "story",
+    "url": "https://futura.black"
+},{
+    "by": "mooreds",
+    "descendants": 0,
+    "id": 30202830,
+    "score": 2,
+    "time": 1643948429,
+    "title": "Rails is not written in Ruby",
+    "type": "story",
+    "url": "https://solnic.codes/2022/02/02/rails-is-not-written-in-ruby/"
+},{
+    "by": "mooreds",
+    "descendants": 0,
+    "id": 30202827,
+    "score": 2,
+    "time": 1643948416,
+    "title": "Data Anonymization with Postgres",
+    "type": "story",
+    "url": "https://vitobotta.com/2022/02/02/data-anonymization-with-postgres/"
+},{
+    "by": "nefitty",
+    "descendants": 0,
+    "id": 30202815,
+    "score": 2,
+    "time": 1643948324,
+    "title": "Show HN: Printable Chess Set",
+    "type": "story",
+    "url": "https://observablehq.com/@iz/printable-chess-set"
+},{
+    "by": "tpc3",
+    "descendants": 3,
+    "id": 30202794,
+    "kids": [
+        30203367,
+        30203394,
+        30202954
+    ],
+    "score": 3,
+    "time": 1643948155,
+    "title": "Global assessment of oil and gas methane ultra-emitters",
+    "type": "story",
+    "url": "https://www.science.org/doi/10.1126/science.abj4351"
+},{
+    "by": "abbadadda",
+    "descendants": 1,
+    "id": 30202761,
+    "kids": [
+        30202762
+    ],
+    "score": 2,
+    "time": 1643947849,
+    "title": "Show HN: Surlesol: What it is and Why I Built it",
+    "type": "story",
+    "url": "https://stevenramey.com/blog/2022/02/03/What-is-Surlesol-and-Why-I-Built-It/"
+},{
+    "by": "feross",
+    "descendants": 1,
+    "id": 30202714,
+    "kids": [
+        30203707,
+        30203623
+    ],
+    "score": 6,
+    "time": 1643947327,
+    "title": "Universal Basic Cop-Out",
+    "type": "story",
+    "url": "https://writing.kemitchell.com/2022/02/04/Universal-Basic-Cop-Out.html"
+},{
+    "by": "russellendicott",
+    "descendants": 3,
+    "id": 30202685,
+    "kids": [
+        30202686
+    ],
+    "score": 2,
+    "time": 1643946998,
+    "title": "The High Cost of Cloud Talent",
+    "type": "story",
+    "url": "http://blog.bytester.net/posts/cloud-talent/"
+},{
+    "by": "shiryel",
+    "descendants": 0,
+    "id": 30202654,
+    "score": 1,
+    "time": 1643946730,
+    "title": "Generate GPG Keys with Curve Ed25519",
+    "type": "story",
+    "url": "https://www.digitalneanderthal.com/post/gpg/"
+},{
+    "by": "teleforce",
+    "descendants": 0,
+    "id": 30202650,
+    "score": 2,
+    "time": 1643946695,
+    "title": "Do it yourself hyperspectral imager for handheld to airborne operations",
+    "type": "story",
+    "url": "https://opg.optica.org/oe/fulltext.cfm?uri=oe-26-5-6021&id=382214"
+},{
+    "by": "userbinator",
+    "descendants": 0,
+    "id": 30202645,
+    "score": 1,
+    "time": 1643946679,
+    "title": "GUI Appearance Settings",
+    "type": "story",
+    "url": "https://guidebookgallery.org/screenshots/appearance"
+},{
+    "by": "lawrenceyan",
+    "descendants": 0,
+    "id": 30202621,
+    "score": 1,
+    "time": 1643946435,
+    "title": "Historical Funding Rates: A Study, with Implications for UXD\u2019s Insurance Fund",
+    "type": "story",
+    "url": "https://uxdprotocol.medium.com/historical-funding-rates-a-study-with-implications-for-uxds-insurance-fund-d4875ddf3ce5"
+},{
+    "by": "SanjeevSharma",
+    "descendants": 0,
+    "id": 30202619,
+    "score": 1,
+    "time": 1643946401,
+    "title": "Books I Finished in 2021",
+    "type": "story",
+    "url": "https://sdarchitect.blog/2022/01/22/21-books-i-finished-in-2021/"
+},{
+    "by": "todsacerdoti",
+    "descendants": 0,
+    "id": 30202578,
+    "score": 1,
+    "time": 1643946072,
+    "title": "Wordle97: Wordle for Word 97",
+    "type": "story",
+    "url": "https://github.com/nilsding/wordle97"
+},{
+    "by": "mathgenius",
+    "descendants": 0,
+    "id": 30202576,
+    "score": 2,
+    "time": 1643946058,
+    "title": "The Race to Build a Fault-Tolerant Superconducting Quantum Computer",
+    "type": "story",
+    "url": "https://spectrum.ieee.org/fault-tolerant-quantum-computing"
+},{
+    "by": "markisus",
+    "descendants": 1,
+    "id": 30202551,
+    "kids": [
+        30203452
+    ],
+    "score": 3,
+    "text": "Using my very primitive abilities with template metaprogramming, I put together a structure of arrays (SOA) class for C++.<p>The point of SOA is that it can be cache friendlier.",
+    "time": 1643945850,
+    "title": "Show HN: Hacking C++ to support Structure of Arrays",
+    "type": "story",
+    "url": "https://github.com/markisus/vapid-soa"
+},{
+    "by": "stepchowfun",
+    "descendants": 0,
+    "id": 30202533,
+    "score": 2,
+    "time": 1643945691,
+    "title": "Toast: Containerize your development and CI environments",
+    "type": "story",
+    "url": "https://github.com/stepchowfun/toast"
+},{
+    "by": "mullikine",
+    "descendants": 1,
+    "id": 30202504,
+    "kids": [
+        30202505
+    ],
+    "score": 1,
+    "time": 1643945496,
+    "title": "Chann.el \u2013 Channel personalities to control your terminal",
+    "type": "story",
+    "url": "https://semiosis.github.io/channel/"
+},{
+    "by": "terrycody",
+    "descendants": 1,
+    "id": 30202493,
+    "kids": [
+        30202798
+    ],
+    "score": 4,
+    "time": 1643945421,
+    "title": "12 Things You Didn\u2019t Know You Could Do on YouTube",
+    "type": "story",
+    "url": "https://www.gizmodo.com.au/2022/01/12-things-you-didnt-know-you-could-do-on-youtube/"
+},{
+    "by": "paulpauper",
+    "descendants": 1,
+    "id": 30202478,
+    "kids": [
+        30202591
+    ],
+    "score": 2,
+    "time": 1643945346,
+    "title": "We Need to Let Go of the Bell Curve",
+    "type": "story",
+    "url": "https://hbr.org/2022/01/we-need-to-let-go-of-the-bell-curve"
+},{
+    "by": "curmudgeon22",
+    "descendants": 1,
+    "id": 30202471,
+    "kids": [
+        30202561
+    ],
+    "score": 2,
+    "time": 1643945305,
+    "title": "The NSA spies shaping the future",
+    "type": "story",
+    "url": "https://www.technologyreview.com/2022/02/01/1044561/meet-the-nsa-spies-shaping-the-future/"
+},{
+    "by": "pqvst",
+    "descendants": 0,
+    "id": 30202420,
+    "score": 1,
+    "time": 1643944866,
+    "title": "CppCast: Unix and C History with Brian Kernighan",
+    "type": "story",
+    "url": "https://cppcast.com/unix-history/"
+},{
+    "by": "arkj",
+    "descendants": 0,
+    "id": 30202414,
+    "score": 1,
+    "time": 1643944806,
+    "title": "Ulysses: Celebrating 100 years of a literary masterpiece",
+    "type": "story",
+    "url": "https://www.bbc.com/news/world-europe-60080683"
+},{
+    "by": "gclef",
+    "descendants": 93,
+    "id": 30202384,
+    "kids": [
+        30203711,
+        30202811,
+        30203108,
+        30202846,
+        30202806,
+        30202842,
+        30203285,
+        30203713,
+        30202743
+    ],
+    "score": 181,
+    "time": 1643944505,
+    "title": "Uyghur kids detail abuse at China's boarding schools in Xinjiang",
+    "type": "story",
+    "url": "https://www.npr.org/2022/02/03/1073793823/china-uyghur-children-xinjiang-boarding-school"
+},{
+    "by": "paulpauper",
+    "descendants": 0,
+    "id": 30202381,
+    "kids": [
+        30202430
+    ],
+    "score": 8,
+    "time": 1643944491,
+    "title": "No, the US does\u2019t have $30T in debt",
+    "type": "story",
+    "url": "https://qz.com/2121442/no-the-us-does-not-have-30-trillion-in-debt/"
+},{
+    "by": "paulpauper",
+    "descendants": 0,
+    "id": 30202380,
+    "score": 3,
+    "time": 1643944463,
+    "title": "Meta Erases $251B in Value, Biggest Wipeout in History",
+    "type": "story",
+    "url": "https://www.bloomberg.com/news/articles/2022-02-03/meta-set-for-200-billion-wipeout-among-worst-in-market-history"
+}
+]

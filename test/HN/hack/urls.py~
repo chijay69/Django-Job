@@ -1,0 +1,8 @@
+from django.urls import path
+from . import views
+
+#urls goes here
+
+urlpartterns = [
+    path('', views.index, name='home'),
+]
