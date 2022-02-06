@@ -1,0 +1,16 @@
+from rest_framework.response import Response
+from rest_framework.decorators import api_view
+from hack.models import BaseModel
+from .serializers import ItemSerializer
+
+
+#views goes here
+
+@api_view(['GET'])
+def getData(request):
+    #person = {'name': 'victor', 'age': 22}
+    items = BaseModel.objects.all()
+    serializer = ItemSerializer(items, many=True)
+    return Response(serializer.data)
+
+

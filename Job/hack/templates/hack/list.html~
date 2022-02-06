@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}My Job{% endblock %}
+{% block content %}
+<h1>My Hacker News</h1>
+{% for post in posts %}
+<h2>
+  <a href="{{ post.get_absolute_url }}">
+    {{ post.title }}
+  </a>
+</h2>
+<p class="type">
+  Published {{ post.type }} by {{ post.by }}
+</p>
+{{ post.body|truncatewords:30|linebreaks }}
+{% endfor %}
+{% endblock %}

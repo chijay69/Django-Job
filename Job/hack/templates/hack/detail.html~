@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}{{ post.title }}{% endblock %}
+{% block content %}
+<h1>{{ post.title }}</h1>
+<p class="type">
+  Published {{ post.type }} by {{ post.by }}
+</p>
+<div class = 'text'>
+  {{ post.text|linebreaks }}
+</div>
+{% endblock %}

@@ -1,0 +1,819 @@
+by,AndrewDucker
+descendants,0
+id,30198603
+score,2
+time,1643921339
+title,Have we got the science of obesity back to front?
+type,story
+url,https://www.newscientist.com/article/mg25333682-800-have-we-got-the-science-of-obesity-back-to-front/
+by,InvOfSmallC
+descendants,1
+id,30198596
+kids,[30198939]
+score,1
+text,"Hello HN,
+I’ve been noticing I received at least 2 or 3 email that should have been marked as spam every day. 
+The weirdest thing is that the same exact template, with a different sender but still same domain, are able to go through the spam filter. 
+This has been happening for the last 2 months. It seems like the gmail spam filter stopped working. Has this been happening to you as well?"
+time,1643921311
+title,Ask HN: Did you notice a degrade in the spam detection on Gmail?
+type,story
+by,feross
+descendants,0
+id,30198579
+score,2
+time,1643921227
+title,Interview in L’actualité (French)
+type,story
+url,https://rootsofprogress.org/interview-in-lactualite-french
+by,jonasdoesthings
+descendants,1
+id,30198558
+kids,[30200064]
+score,6
+text,"A lot of users on twitter[1], myself included, just received a payment by DigitalOcean out of the blue. Turns out they apparently refunded the unused funds of inactive users.<p>[1]: https:&#x2F;&#x2F;twitter.com&#x2F;search?q=digitalocean%20paypal&amp;src=typed_query&amp;f=live"
+time,1643921146
+title,DigitalOcean just refunded unused funds back to inactive users' PayPal accounts
+type,story
+by,gmays
+descendants,0
+id,30198548
+score,4
+time,1643921100
+title,Imminent merger of giant black holes predicted
+type,story
+url,https://www.science.org/content/article/crash-titans-imminent-merger-giant-black-holes-predicted
+by,arunbahl
+descendants,0
+id,30198547
+score,5
+time,1643921094
+title,Body Odor May Have Smelled Much Worse to Your Ancient Ancestors
+type,story
+url,https://www.nytimes.com/2022/02/03/science/nose-odors-evolution.html
+by,jaredwiener
+descendants,0
+id,30198540
+score,1
+time,1643921059
+title,"Who Still Buys Wite-Out, and Why? (2019)"
+type,story
+url,https://www.theatlantic.com/technology/archive/2019/03/who-still-buys-wite-out-and-why/567311/
+by,blueatlas
+descendants,0
+id,30198521
+score,3
+time,1643920961
+title,Inside America's Legendary Audio Gear Factory
+type,story
+url,https://www.popsci.com/story/technology/mcintosh-amp-factory-photos/
+by,fallat
+descendants,0
+id,30198514
+score,2
+time,1643920921
+title,"Show HN: Measure code by Kolmogrov complexity, not lines"
+type,story
+url,https://github.com/lf94/kolmogorov.sh
+by,aml183
+descendants,0
+id,30198502
+score,2
+time,1643920854
+title,20 Years Building JWST – A Conversation with NASA’s Paul Geithner
+type,story
+url,https://payloadspace.com/20-years-building-jwst-a-conversation-with-paul-geithner/
+by,paulpauper
+descendants,0
+id,30198471
+score,1
+time,1643920707
+title,Antitrust Should Be Used to Fight Inflation
+type,story
+url,https://prospect.org/economy/antitrust-should-be-used-to-fight-inflation/
+by,paulpauper
+descendants,0
+id,30198455
+kids,[30198503]
+score,3
+time,1643920667
+title,GDP Surged but Americans Are Struggling with Inflation-Most Say It Will Be Worse
+type,story
+url,https://www.forbes.com/sites/sergeiklebnikov/2022/01/27/gdp-surged-but-americans-are-struggling-with-inflation-record-79-say-it-will-get-worse/
+by,paulpauper
+descendants,0
+id,30198440
+score,6
+time,1643920591
+title,Little of the Paycheck Protection Program’s $800B Protected Paychecks
+type,story
+url,https://www.nytimes.com/2022/02/01/business/paycheck-protection-program-costs.html
+by,johncena33
+descendants,0
+id,30198437
+score,1
+time,1643920587
+title,How-To Switch Seamlessly from Chrome to Edge in Windows 10 – Windows.do
+type,story
+url,https://windows.do/how-to-switch-seamlessly-from-chrome-to-edge-2/
+by,rognjen
+descendants,4
+id,30198432
+kids,"[30198618, 30198908]"
+score,3
+time,1643920580
+title,Quick rundown of barcodes and marker systems
+type,story
+url,https://ognjen.io/quick-rundown-of-barcodes-and-marker-systems/
+by,imakwana
+descendants,0
+id,30198420
+score,1
+time,1643920539
+title,Value Investor's Guide to Web3
+type,story
+url,https://www.sparklinecapital.com/post/value-investors-guide-to-web3
+by,paulpauper
+descendants,1
+id,30198414
+kids,[30198677]
+score,7
+time,1643920520
+title,On Bounded Distrust
+type,story
+url,https://thezvi.substack.com/p/on-bounded-distrust
+by,bryanrasmussen
+descendants,2
+id,30198412
+kids,"[30201981, 30198525]"
+score,1
+time,1643920505
+title,Is Ginni Thomas a Threat to the Supreme Court?
+type,story
+url,https://www.newyorker.com/magazine/2022/01/31/is-ginni-thomas-a-threat-to-the-supreme-court
+by,almog
+descendants,0
+id,30198385
+score,3
+time,1643920347
+title,Zuckerberg tells staff to focus on video products
+type,story
+url,https://www.bloomberg.com/news/articles/2022-02-03/zuckerberg-tells-staff-to-focus-on-video-as-meta-plunges
+by,codemonky
+descendants,4
+id,30198351
+kids,"[30203783, 30199545]"
+score,7
+text,I built this ReactJS&#x2F;Ruby on Rails single page web app out of personal need. My son wanted a book like “Curious George” but I didn’t have a good way to find one. The tool allows you to flip through pages of books for online previews.
+time,1643920181
+title,Show HN: I developed a website to find books similar to my kid's favorite
+type,story
+url,https://www.feedingreader.com
+by,collegeburner
+descendants,12
+id,30198282
+kids,"[30198321, 30198421]"
+score,2
+text,"I run a small page that provides services to customers. The ads are not unreasonable but I notice an increasing fraction of users blocking ads. I do not want to serve users who block my ads because I lose money. Are there any solutions for inserting ads on the server-side instead so they can&#x27;t be blocked easily? I can find references only for doing this in video. Failing that, recommendations tools to block users who use ad blocking so they do not take up my resources. Thank you.<p>Edit: Something like this but for page not video: https:&#x2F;&#x2F;admanager.google.com&#x2F;home&#x2F;resources&#x2F;feature-brief-dynamic-ad-insertion&#x2F;. There is 1 i find called Kevel, has anybody here used and can give opinions? https:&#x2F;&#x2F;www.kevel.com&#x2F;"
+time,1643919889
+title,Ask HN: Server-side ad rendering prevents ad-blocker?
+type,story
+by,labrador
+descendants,1
+id,30198279
+kids,[30198280]
+score,2
+time,1643919872
+title,The great gaslighting: how Covid longhaulers are still fighting for recognition
+type,story
+url,https://www.theguardian.com/society/2022/feb/03/long-covid-fight-recognition-gaslighting-pandemic
+by,headalgorithm
+descendants,0
+id,30198265
+kids,[30198318]
+score,1
+time,1643919807
+title,What’s So Hard About Understanding Consciousness?
+type,story
+url,https://nautil.us/whats-so-hard-about-understanding-consciousness-13877/
+by,hahahahahahff
+descendants,1
+id,30198261
+kids,"[30200779, 30198262]"
+score,5
+time,1643919802
+title,South America's 'lithium fields' reveal the dark side of our electric future
+type,story
+url,https://www.euronews.com/green/2022/02/01/south-america-s-lithium-fields-reveal-the-dark-side-of-our-electric-future
+by,hatmatrix
+descendants,137
+id,30198239
+kids,"[30200183, 30200984, 30198696, 30199054, 30198915, 30200444, 30203570, 30204312, 30201977, 30203667, 30200662, 30201229, 30198996, 30201355, 30199879, 30202542, 30199024, 30198929, 30201450, 30200699, 30201508, 30202516, 30199629, 30198832, 30204119, 30199776, 30199235, 30199383, 30201034, 30199994, 30200552, 30199148]"
+score,253
+time,1643919695
+title,The Karikó problem: Lessons for funding basic research
+type,story
+url,https://www.statnews.com/2022/02/01/kariko-problem-lessons-funding-basic-research/
+by,smollett
+descendants,85
+id,30198214
+kids,"[30203849, 30198711, 30200694, 30200678, 30204274, 30202299, 30201655, 30198223, 30202920, 30200771, 30202988, 30199177, 30199505, 30202320, 30202276, 30202234, 30199400, 30200381, 30198352, 30202594, 30200343, 30199969]"
+score,118
+time,1643919576
+title,How we broke the supply chain
+type,story
+url,https://prospect.org/economy/how-we-broke-the-supply-chain-intro/
+by,Tomte
+descendants,0
+id,30198193
+score,1
+time,1643919485
+title,End-to-end patch attestation with patatt and b4 (2021)
+type,story
+url,https://people.kernel.org/monsieuricon/end-to-end-patch-attestation-with-patatt-and-b4
+by,abiodunjames
+descendants,1
+id,30198190
+kids,[30198191]
+score,2
+time,1643919474
+title,Five valuable lessons for a new tech lead
+type,story
+url,https://leaddev.com/professional-development/five-valuable-lessons-new-tech-lead
+by,steelstraw
+descendants,0
+id,30198189
+score,1
+time,1643919474
+title,"Hello, Trust Machines"
+type,story
+url,https://www.trustmachines.co/blog/hello-trust-machines
+by,Tomte
+descendants,0
+id,30198174
+score,2
+time,1643919408
+title,Jails – High value but shitty Virtualization (2016)
+type,story
+url,http://phk.freebsd.dk/sagas/jails/
+by,Apocryphon
+descendants,0
+id,30198154
+score,2
+time,1643919331
+title,Why the Future Doesn't Need Us (2000)
+type,story
+url,https://www.wired.com/2000/04/joy-2/
+by,elorant
+descendants,0
+id,30198153
+score,1
+time,1643919328
+title,Sony is still struggling with PS5 supply
+type,story
+url,https://www.theverge.com/2022/2/2/22913870/sony-earnings-q3-2021-ps5-sales-vs-ps4
+by,keleftheriou
+descendants,2
+id,30198103
+kids,"[30198245, 30198478]"
+score,11
+time,1643919150
+title,"Apple will face more fines for avoiding App Store ruling, Dutch regulator says"
+type,story
+url,https://www.businessinsider.com/apple-faces-more-fines-for-avoiding-dutch-app-store-ruling-2022-2
+by,mesofile
+descendants,0
+id,30198099
+score,9
+time,1643919126
+title,"Next-gen USPS mail trucks are only capable of 8.6 MPG, EPA says"
+type,story
+url,https://arstechnica.com/cars/2022/02/the-epa-and-white-house-take-fire-at-inefficient-new-mail-trucks/
+by,thereare5lights
+descendants,0
+id,30198098
+score,3
+time,1643919120
+title,Thousands of Texans are without power as arctic cold front hits state
+type,story
+url,https://abc13.com/texas-power-outages-why-is-out-winter-storm-arctic-cold-front/11535009/
+by,icholy
+descendants,3
+id,30198082
+kids,"[30199257, 30202202]"
+score,14
+time,1643919083
+title,Lockdowns only reduced Covid deaths by 0.2 per cent
+type,story
+url,https://nationalpost.com/news/world/johns-hopkins-university-study-covid-19-lockdowns
+by,raudaschl
+descendants,0
+id,30198068
+score,2
+time,1643919040
+title,A Mathematician’s Guide to Wordle
+type,story
+url,https://aperiodical.com/2022/02/a-mathematicians-guide-to-wordle/
+by,lukehoban
+descendants,0
+id,30198066
+score,2
+time,1643919035
+title,The Perfect Tech Stack for a SaaS Product
+type,story
+url,https://www.youtube.com/watch?v=SUjTIX0a1PM
+by,kordlessagain
+descendants,9
+id,30198059
+kids,"[30198588, 30198380, 30198822, 30200198, 30199036, 30199156]"
+score,20
+time,1643919008
+title,Unofficial Minecraft NFT Project Runs Off with $1.2M
+type,story
+url,https://www.thegamer.com/minecraft-nft-discord-scam/
+by,wyrm
+descendants,0
+id,30198053
+score,1
+time,1643919001
+title,"Thor's Rock – Thurstaston, England"
+type,story
+url,https://www.atlasobscura.com/places/thors-rock
+by,phreeza
+descendants,0
+id,30198027
+score,4
+time,1643918907
+title,"In New York City Sewage, a Mysterious Coronavirus Signal"
+type,story
+url,https://www.nytimes.com/2022/02/03/health/coronavirus-wastewater-new-york.html
+by,binarynate
+descendants,0
+id,30198025
+score,2
+time,1643918896
+title,Twenty Years of .NET with Miguel de Icaza [audio]
+type,story
+url,https://www.dotnetrocks.com/?show=1779
+by,petilon
+descendants,0
+id,30198010
+score,4
+time,1643918821
+title,Meta Says Apple’s Privacy Changes Could Cost the Company $10B
+type,story
+url,https://www.nytimes.com/2022/02/03/technology/apple-privacy-changes-meta.html
+by,himanshu810e
+descendants,2
+id,30197997
+kids,"[30198749, 30200231]"
+score,11
+text,For me its too much of a pain to do UI&#x2F;UX but I believe the devs at Ycombinator know better and give us a dark themed UI. It is 2022 and I don&#x27;t want to bleach my eyes every time I open HackerNews
+time,1643918745
+title,For the sake of Humanity get a dark theme Y Combinator
+type,story
+by,jordhy
+descendants,0
+id,30197980
+score,3
+time,1643918676
+title,Trust Machines raised $150M to “Unleash Bitcoin’s full potential
+type,story
+url,https://www.forbes.com/sites/ninabambysheva/2022/02/03/bitcoin-veteran-raises-150-million-to-bring-daos-and-nfts-to-the-first-cryptocurrency/
+by,headalgorithm
+descendants,0
+id,30197961
+score,1
+time,1643918597
+title,‘Like an atomic bomb’: So what now for the IAB’s GDPR fix after regulator snafu?
+type,story
+url,https://digiday.com/marketing/like-an-atomic-bomb-so-what-now-for-the-iabs-gdpr-fix-after-regulator-snafu/
+by,hkmaxpro
+descendants,71
+id,30197960
+kids,"[30198668, 30198885, 30198600, 30198972, 30199004, 30198578, 30198580, 30199203, 30198940, 30199139, 30198981, 30198727, 30198816, 30198629, 30199104, 30198897, 30199666, 30199289, 30198589, 30198893, 30198828]"
+score,31
+time,1643918594
+title,The 4-day week is flawed – workers still want it
+type,story
+url,https://www.wired.com/story/four-day-week-burnout/
+by,tosh
+descendants,0
+id,30197949
+score,1
+time,1643918525
+title,How to select video quality from youtube-dl?
+type,story
+url,https://askubuntu.com/questions/486297/how-to-select-video-quality-from-youtube-dl
+by,emrahsamdan
+descendants,0
+id,30197917
+score,1
+time,1643918366
+title,"How Serverless API, Data, Schedule, Events Work"
+type,story
+url,https://www.serverless.com/blog/how-serverless-cloud-works-part-2
+by,mooreds
+descendants,0
+id,30197914
+score,1
+time,1643918343
+title,Separating Your User Db and Authorization from Apps with Istio and FusionAuth
+type,story
+url,https://reachablegames.com/oidc-fusionauth-istio/
+by,winternett
+descendants,2
+id,30197907
+kids,[30197996]
+score,1
+text,"After seeing numerous complaints from YouTube and TikTok OC posters, thr thought occurred to me that many sites now are encouraging users to re-host content originally posted by OC creators on those platforms to each other.<p>There is apparently a huge market for false creator accounts that re-post stolen content.<p>My question is How do sites like Reddit &amp; TikTok escape criticism for duplicating YouTube content?<p>I think the platforms should hold a bit of accountability for this issue, as original content creators are often ignored, unpaid, and uncredited for most of the content that goes viral on platforms because of the repost culture they regularly don&#x27;t account properly for?"
+time,1643918288
+title,Ask HN: How do sites like Reddit and TikTok escape criticism for repost content?
+type,story
+by,spodernet
+descendants,0
+id,30197867
+score,1
+time,1643918092
+title,Public domain Posix make (a new implementation)
+type,story
+url,https://frippery.org/make/
+by,jeffreyrogers
+descendants,0
+id,30197856
+score,5
+time,1643918042
+title,CToy: Interactive C Live Coding Environment
+type,story
+url,https://github.com/anael-seghezzi/CToy
+by,aloukissas
+descendants,0
+id,30197851
+score,4
+time,1643918032
+title,World’s brightest x-rays reveal Covid-19’s damage to the body
+type,story
+url,https://www.nationalgeographic.com/science/article/worlds-brightest-x-rays-reveal-covid-19-damage-to-the-body
+by,yread
+descendants,0
+id,30197839
+score,2
+time,1643917963
+title,Medical isotope update: Shortage expected to last weeks
+type,story
+url,https://www.healthimaging.com/topics/molecular/medical-isotope-shortage-nuclear-reactor
+by,Chetane
+descendants,0
+id,30197837
+score,1
+text,"Hey there,<p>Long time lurker here! I wanted to share and get feedback on a feature I&#x27;ve been building at Flowdash. We build a form builder that _updates_ existing records.<p>Why yet another form builder? Most form products today (e.g. google form) only create new records upon submission. That’s useful for initially capturing customer data, but what happens when you need to ask extra information down the line?<p>I&#x27;ve noticed that’s usually when my process breaks, and I have to jump over to email asking for extra information and eventually end up with long email chains with file attachments and what not.<p>This got me thinking: why is it I can&#x27;t create a form that allows me to update existing records for the follow-up data requests. Found some hacks around (e.g. hidden field with a unique ID + zapier script to match and update), but nothing that worked seamlessly.<p>Anyways, that&#x27;s the story of how I ended up building my own form builder, that can be triggered to update an existing record :)<p>Is something you&#x27;ve also run into in the past? how did you solve it?<p>I would love to hear your feedback and suggestions on the idea. Thanks!<p>Demo video: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=AUsVDyVZ-Is<p>Try it out: https:&#x2F;&#x2F;bit.ly&#x2F;3sdQpsG<p>PS: If you want to chat more about the idea, you can also email me at omar@flowdash.com"
+time,1643917959
+title,Show HN: What do you think this form builder that *updates* existing records?
+type,story
+by,hinting
+descendants,0
+id,30197824
+score,7
+time,1643917904
+title,Tools for Fast (and Less Furious) Front End Development
+type,story
+url,https://felt.com/blog/tools-fast-frontend-development
+by,todsacerdoti
+descendants,0
+id,30197821
+score,1
+time,1643917874
+title,Minimal Color Swatches
+type,story
+url,https://hugodaniel.com/posts/minimal-color-swatches/
+by,punnerud
+descendants,0
+id,30197820
+score,2
+time,1643917872
+title,Stop Certificate Pinning
+type,story
+url,https://www.digicert.com/blog/certificate-pinning-what-is-certificate-pinning
+by,shiryel
+descendants,0
+id,30197815
+score,4
+time,1643917853
+title,Glass – A semantic search tool for Erlang that supports large code-bases
+type,story
+url,https://github.com/klarna-incubator/glass
+by,stefanvdw1
+descendants,0
+id,30197805
+score,1
+text,"The last few weeks I&#x27;ve seen a lot of tools on the front page of Hacker News which work by replacing a part of a URL by some other text. An example is the Hacker News social preview tool which was on the front page today.<p>All these posts on Hacker News had one thing in common: one of the top comments was someone saying that they could never remember which tools are out there. So, I&#x27;ve setup a Github repo[0] to keep track of the different tools out there and plan to build a browser plugin to automatically show you when you are on a website where one can be used.<p>Please share any tool that works by replacing part of the URL to help create the most complete list.<p>Thanks!<p>0: https:&#x2F;&#x2F;github.com&#x2F;StefanVDWeide&#x2F;replace-x-in-url"
+time,1643917818
+title,Ask HN: Tools that work by replacing a part of the URL?
+type,story
+by,chaibiker
+descendants,3
+id,30197791
+kids,[30197798]
+score,3
+time,1643917772
+title,Show HN: The first smart interactive chair for standing desks
+type,story
+url,https://www.movably.com/earlybird
+by,42jd
+descendants,0
+id,30197788
+score,3
+time,1643917745
+title,Signing Git commits with your SSH key
+type,story
+url,https://calebhearth.com/sign-git-with-ssh
+by,noselasd
+descendants,0
+id,30197787
+score,1
+time,1643917742
+title,FSW 2022: Desktop UIs with Rust and React
+type,story
+url,https://www.youtube.com/watch?v=0gC3HOgtumo
+by,kscottz
+descendants,0
+id,30197718
+score,1
+time,1643917424
+title,NASA Missions That Use Robot Operating System
+type,story
+url,https://www.openrobotics.org/blog/2022/2/2/rosinspace
+by,mooreds
+descendants,0
+id,30197705
+score,2
+time,1643917385
+title,A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication
+type,story
+url,https://github.com/int128/kubelogin
+by,gmays
+descendants,0
+id,30197656
+score,1
+time,1643917215
+title,'Quantum friction' slows water flow through carbon nanotubes
+type,story
+url,https://phys.org/news/2022-02-quantum-friction-carbon-nanotubes-long-standing.html
+by,jonbaer
+descendants,0
+id,30197613
+score,3
+time,1643917022
+title,PipelineDP - Differentially private data aggregation
+type,story
+url,https://pipelinedp.io/
+by,atum47
+descendants,1
+id,30197595
+kids,[30197689]
+score,3
+time,1643916943
+title,Hobo Hero – a game about being a hobo
+type,story
+url,https://twitter.com/hoboherothegame
+by,galosh
+descendants,0
+id,30197577
+score,4
+time,1643916869
+title,Boston Fed and MIT release research on a central bank digital currency
+type,story
+url,https://www.bostonfed.org/news-and-events/press-releases/2022/frbb-and-mit-open-cbdc-phase-one.aspx
+by,hhs
+descendants,1
+id,30197576
+kids,[30197756]
+score,5
+time,1643916865
+title,Do we create space-time? A new perspective on the fabric of reality
+type,story
+url,https://www.newscientist.com/article/mg25333720-800-do-we-create-space-time-a-new-perspective-on-the-fabric-of-reality/
+by,belter
+descendants,0
+id,30197570
+score,3
+time,1643916839
+title,Scroll Lock – The Secret Key They Don't Want You to Press [video]
+type,story
+url,https://www.youtube.com/watch?v=NJ0U8RmW-oE
+by,extreme_eagle
+descendants,3
+id,30197521
+kids,[30198016]
+score,2
+text,"The main vulnerabilities exist because of a clickless load that happens largely when a user is sent a text message and either views it or the message contents are parsed to cache the link. Resolving this vulnerability is critical, and yet should not be the main focus for the developers at Apple.<p>Mainly the &quot;True&quot; vulnerability lies in that the messaging app &quot;iMessage&quot; and the contacts app &quot;Contacts&quot; are not unified and do not handle permissions well. Let me explain. When the user is sent a message from the attacker which leads to the exploit phase, this is because the user is not empowered to inherently reject messages that are incoming. A user that is not present in the contact or address list for an iPhone user should not be able to send iMessages to the user. In other words, the users Contacts should act as a default block list. This would not be sufficient normally, as there are use-cases where the user needs to receive messages from an unknown number.<p>This is one of the core ways to defeat the vulnerability: making it impossible for the user to receive unsolicited messages, and instead to receive a &quot;Message Request(s)&quot; from unknown numbers, which would be stored in the settings or the main section of the message app &quot;iMessage&quot; as an approve&#x2F;block list. These users would not be able to send ANY information to the user, whatsoever. They can only initiate the approve&#x2F;deny process, after which, the user may add them to contacts or allow them to remain as a &quot;temporary contact&quot; -- while also using PBX&#x2F;callerID discovery to add information to the request, i.e. &quot;Maybe: Alice&quot;, or &quot;Maybe: Bob&quot;. Unknown users or users that have no association to the user would be either subject to further research on the user&#x27;s part or result in a block action.<p>The block action should be defined in 3 pieces. Block for 1 day, Block for 1 week, Block permanently. Clicking &quot;block&quot; should allow the user to select the option as a pop-up menu.<p>The second way to resolve the vulnerability is to have more strict handling with the contacts app &quot;Contacts&quot; -- instead of the standard user process of &quot;text me&quot; or &quot;call me&quot; to get a number, there should be an easy way to transmit contact information either via an electronic process (scan the QR, contact the devices, etc.) but also by means of knowing the users phone number or contact number. &quot;Text me&quot; should be initially handled by the contacts app, NOT messages. A user that is not validated who sends SMS or a similar message to the user should result in the data not being parsed whatsoever, and the number being sent to a validation step. This solves the issue of users needing to add others via phonecall&#x2F;texting process while also protecting them during that process from an outside attacker who may have gained their number.<p>Thank you for reading this is for free, no license. Please consider using it."
+time,1643916667
+title,A resolution for the iPhone remote access vulnerabilities
+type,story
+by,steelstraw
+descendants,0
+id,30197514
+score,1
+time,1643916652
+title,Americans Offer Gloomy State of the Nation Report
+type,story
+url,https://news.gallup.com/poll/389309/americans-offer-gloomy-state-nation-report.aspx
+by,rbanffy
+descendants,0
+id,30197470
+score,5
+time,1643916484
+title,PCIe 5.0 SSDs promising up to 14GB/s of bandwidth will be ready in 2024
+type,story
+url,https://arstechnica.com/gadgets/2022/02/pcie-5-0-ssds-promising-up-to-14gb-s-of-bandwidth-will-be-ready-in-2024/
+by,donsupreme
+descendants,0
+id,30197467
+score,4
+time,1643916472
+title,"Facebook and Google stocks have diverged, and the reason is Apple"
+type,story
+url,https://www.cnbc.com/2022/02/03/facebook-and-google-stocks-have-diverged-and-the-reason-is-apple.html
+by,JordanTen
+descendants,0
+id,30197463
+score,1
+time,1643916450
+title,Podcast – Red Hat Discusses CNCF Proj Submariner – Multi-Cluster Networks
+type,story
+url,https://www.heavybit.com/library/podcasts/the-kubelist-podcast/ep-18-submariner-with-miguel-angel-ajo-and-stephen-kitt-of-red-hat/
+by,aloknnikhil
+descendants,1
+id,30197449
+kids,[30197450]
+score,5
+time,1643916404
+title,The Datadog WebApp is down
+type,story
+url,https://status.datadoghq.com
+by,trms
+descendants,0
+id,30197448
+score,1
+time,1643916404
+title,Clickbait Remover for YouTube
+type,story
+url,https://addons.mozilla.org/en-US/firefox/addon/clickbait-remover-for-youtube/
+by,throwaway271723
+descendants,10
+id,30197413
+kids,"[30197952, 30200622, 30198923, 30198751, 30201134]"
+score,4
+text,"I work at a large tech company, I’ve been on the team a few years. We’re building a Kubernetes based service and spend an incredible amount of time on CI related issues. One team member in particular is constantly making tweaks to the pipeline, pushing for improvements and talking about it constantly. The build is broken most of the time. I feel pretty dejected as we don’t seem to deliver much user value. As it’s a big company we just seem to fly under the radar. Anyone else have similar experiences?"
+time,1643916259
+title,Ask HN: Team spends all our time fixing CI
+type,story
+by,devy
+descendants,0
+id,30197355
+score,3
+time,1643916067
+title,Comparison of Kubernetes Managed Services
+type,story
+url,https://docs.google.com/spreadsheets/d/1RPpyDOLFmcgxMCpABDzrsBYWpPYCIBuvAoUQLwOGoQw/edit#gid=907731238
+by,rbanffy
+descendants,1
+id,30197349
+kids,[30198275]
+score,1
+time,1643916055
+title,Quantum Computers Could Crack Bitcoin Security by the 2030s
+type,story
+url,https://www.tomshardware.com/news/quantum-computer-development-could-put-bitcoin-security-at-risk-by-the-2030s
+by,feross
+descendants,0
+id,30197293
+score,5
+time,1643915824
+title,Visual Studio Code January 2022
+type,story
+url,https://code.visualstudio.com/updates/v1_64
+by,the_arun
+descendants,0
+id,30197287
+score,6
+time,1643915803
+title,"Teen tracking Musk's private jet now monitoring Bill Gates, Jeff Bezos and Drake"
+type,story
+url,https://inews.co.uk/news/elon-musk-teen-tracking-billionaires-private-jet-now-monitoring-bill-gates-jeff-bezos-drake-1438871
+by,bpierre
+descendants,1
+id,30197286
+kids,[30198332]
+score,35
+time,1643915802
+title,Systemd by example – Part 1: Minimization
+type,story
+url,https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/
+by,ilamont
+descendants,0
+id,30197274
+score,2
+time,1643915769
+title,‘Mob’ accusations add fuel to the online battle between Fast and Bolt
+type,story
+url,https://www.modernretail.co/startups/mob-accusations-add-fuel-to-the-online-battle-between-one-click-payments-startups-fast-and-bolt/
+by,bpierre
+descendants,0
+id,30197270
+score,2
+time,1643915748
+title,The type hierarchy tree in TypeScript
+type,story
+url,https://www.zhenghao.io/posts/type-hierarchy-tree
+by,kvee
+descendants,0
+id,30197239
+score,1
+time,1643915619
+title,Do Animals Understand What It Means to Die?
+type,story
+url,https://www.vice.com/en/article/5dg57q/do-animals-understand-what-it-means-to-die
+by,nicole_express
+descendants,0
+id,30197217
+score,2
+time,1643915554
+title,Neo Geo Genesis 1 1/2: The Alpha 68K-V
+type,story
+url,https://nicole.express/2022/ganging-up-on-the-alpha.html
+by,JordanTen
+descendants,0
+id,30197188
+score,6
+time,1643915442
+title,"Easy Guide to Set Up Prometheus Alertmanager with Slack, PagerDuty, and Gmail"
+type,story
+url,https://grafana.com/blog/2020/02/25/step-by-step-guide-to-setting-up-prometheus-alertmanager-with-slack-pagerduty-and-gmail/
+by,imartin2k
+descendants,0
+id,30197184
+score,2
+time,1643915421
+title,W(h)ither ARM?
+type,story
+url,https://digitstodollars.com/2022/02/02/whither-arm/
+by,Tomte
+descendants,0
+id,30197183
+score,2
+time,1643915420
+title,Play Secret Hitler (2020)
+type,story
+url,https://kristoff.it/blog/you-should-play-secret-hitler/
+by,Tomte
+descendants,0
+id,30197177
+score,1
+time,1643915410
+title,"Ill-fitting gear puts female firefighters at risk, but that’s changing (2020)"
+type,story
+url,https://www.theverge.com/2020/2/21/21147087/female-firefighter-gear-risk-california-australia-wildfires-climate-change
+by,CrankyBear
+descendants,0
+id,30197143
+score,4
+time,1643915286
+title,Is NPM a Hotbed of Malware?
+type,story
+url,https://thenewstack.io/is-npm-a-hotbed-of-malware/
+by,joering2
+descendants,0
+id,30197137
+score,2
+time,1643915266
+title,Top analyst calculates Tesla true worth is $138 a share
+type,story
+url,https://fortune.com/2022/02/02/tsla-stock-valuation-predictions-2022/
+by,shlosky
+descendants,3
+id,30197136
+kids,[30197248]
+score,2
+time,1643915266
+title,Show HN: A Penny – answer questions and earn “a penny for your thought”
+type,story
+url,https://a-penny.com/
+by,athielking
+descendants,1
+id,30197134
+kids,[30203411]
+score,4
+time,1643915260
+title,Google delivers Flutter support for Windows desktop apps
+type,story
+url,https://siliconangle.com/2022/02/03/google-delivers-flutter-support-windows-desktop-apps/
+by,jjbrigs
+descendants,2
+id,30197124
+kids,[30197860]
+score,1
+text,"Hi all, I&#x27;m building a small web app using a bunch of no-code tools and would really like to know if I can generate a website via an API call. Is there any such service out there you have experience with? My search brought me no results except for an enterprise solution from a website builder called Duda.co but that is way out of budget.<p>The tool I&#x27;m creating is for a real estate agency. Users from the agency will login to the app and submit details about a house for sale. Using that information we go and make a WordPress website. I&#x27;m looking to automate this by passing the information the user submit via an API call to a website builder of some sort to instantly generate a website.<p>Any help in this would be hugely appreciated!"
+time,1643915235
+title,Can you instantly generate a website with an API call?
+type,story

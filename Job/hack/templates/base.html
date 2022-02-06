@@ -1,0 +1,36 @@
+{% load hack_tags %}
+{% load static %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% block title %}{% endblock %}</title>
+    <link href="{% static "css/blog.css" %}" rel="stylesheet">
+  </head>
+  <body>
+      
+    <div id="content">
+      {% block content %}
+      {% endblock %}
+    </div>
+    <div id="sidebar">
+      {% include "searchp.html" %}
+      </a><br>
+      <h2><a href="{% url 'post_list' %}">My Hacker News</a></h2>	
+      <p>This is an api powered site.</p>
+      <nav>
+	<ul>
+	  <li>
+	    <a href="{% url 'getdata' %}">Get Data(api)</a>
+	  </li>
+	  <li>
+	    <a href="{% url 'postdata' %}">Post Data(api)</a>
+	  </li>
+	</ul>
+	<p>there are {% total_items %} items in db currently</p>
+	<h3> Recent Items </h3>
+	{% show_latest_items 3 %}
+	
+      </nav>
+    </div>
+  </body>
+</html>
